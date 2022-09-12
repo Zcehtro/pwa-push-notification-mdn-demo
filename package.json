@@ -1,0 +1,7 @@
+{
+  "name": "pwa-push-notification-mdn-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Zcehtro <stefano.n.giaimo@gmail.com>",
+  "private": false
+}
